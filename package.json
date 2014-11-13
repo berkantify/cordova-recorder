@@ -1,0 +1,18 @@
+{
+  "name": "rels-mobile",
+  "version": "0.0.0",
+  "devDependencies": {
+    "bower": "*",
+    "ios-sim": "*",
+    "ios-deploy": "*",
+    "shelljs": "*",
+    "elementtree": "0.1.5",
+    "plist": "0.4.x",
+    "xcode": "0.6.2",
+    "underscore": "*",
+    "grasp": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
